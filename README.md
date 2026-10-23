@@ -1,5 +1,5 @@
 # Artificial Intelligence and Society
-A self-contained slide deck (reveal.js) for the PSL *Artificial Intelligence and Society* master's, with live audience polls. The deck is one HTML file; the polling runs on a free Google Apps Script backend attached to a Google Sheet.
+A self-contained slide deck (built with [reveal.js](https://revealjs.com/), the HTML presentation framework) for the PSL *Artificial Intelligence and Society* master's, with live audience polls. The deck is one HTML file; the polling runs on a free Google Apps Script backend attached to a Google Sheet.
 
 | File | What it is |
 |---|---|
